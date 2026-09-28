@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Bloquear arquivos desnecessários para indexação
+Disallow: /assets/js/
+Disallow: /*.py$
+
+# Sitemap
+Sitemap: https://alfaeomegafitness.com.br/sitemap.xml

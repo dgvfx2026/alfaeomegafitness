@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://alfaeomegafitness.com.br/</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://alfaeomegafitness.com.br/"/>
+    <image:image>
+      <image:loc>https://alfaeomegafitness.com.br/assets/img/hero-1400.webp</image:loc>
+      <image:title>Alfa e Omega Fitness Academia - Rio Grande RS</image:title>
+      <image:caption>Interior da academia com equipamentos de musculacao</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alfaeomegafitness.com.br/assets/img/about-1100.webp</image:loc>
+      <image:title>Alunos treinando na Alfa e Omega Fitness Academia</image:title>
+      <image:caption>Ambiente de treino com atletas</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alfaeomegafitness.com.br/assets/img/logo-800.webp</image:loc>
+      <image:title>Logo Alfa e Omega Fitness Academia</image:title>
+    </image:image>
+  </url>
+</urlset>
